@@ -362,14 +362,16 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #hero {
   width: 100%;
-  height: calc(100vh - 114px);
+  /* height: calc(100vh - 114px); */
+  height: calc(50vh - 100px);
   padding: 0;
   overflow: hidden;
 }
 
 #hero .carousel-item {
   width: 100%;
-  height: calc(100vh - 114px);
+  /* height: calc(100vh - 114px); */
+  height: calc(50vh - 100px);
   background-size: cover;
   background-position: top right;
   background-repeat: no-repeat;
